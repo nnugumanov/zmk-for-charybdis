@@ -80,7 +80,7 @@
                                       &trans     &trans       &trans
             >;
 
-            trackball-bindings = <&tsl>;//滚轮层
+            trackball-bindings = <&tsl>;//Roller layer
         };
 
         layer_5 {
@@ -93,7 +93,7 @@
                                       &trans     &trans       &trans
             >;
 
-            trackball-bindings = <&tmv_fine>;//精准指针层
+            trackball-bindings = <&tmv_fine>;//Precision pointer layer
         };
     };
 };
